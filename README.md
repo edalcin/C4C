@@ -1,3 +1,5 @@
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/coders4conservation/Lobby)
+
 # Coders for Conservation (C4C)
 
 ## About C4C
