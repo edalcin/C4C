@@ -8,4 +8,4 @@ Please, join also https://gitter.im/coders4conservation/
 
 ## Rationale
 
-Soon...
+This initiative aims to promote the development of better tools for conservation of biodiversity through the integration of individual and institutional efforts over an aligned vision.
