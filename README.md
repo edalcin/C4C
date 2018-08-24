@@ -1,2 +1,3 @@
 # C4C
-Coders4Conservation
+IT and Biodiversity people thinking about better tools for conservation.
+Please, join also https://gitter.im/coders4conservation/
